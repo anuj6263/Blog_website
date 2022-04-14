@@ -1,0 +1,22 @@
+.blog-content{
+	padding-left: 150px;
+	padding-right: 150px;
+	padding-top: 50px;
+	min-height: 80vh;
+}
+
+.blog-heading{
+	font-size: 1.5em;
+	padding-bottom: 20px;
+	font-weight: 700;
+}
+
+.blog-text{
+	font-size: 1.3em;
+}
+
+.blog-img{
+	width: 100%;
+	display: flex;
+	justify-content: center;
+}
